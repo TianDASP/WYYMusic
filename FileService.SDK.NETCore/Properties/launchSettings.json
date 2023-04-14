@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "FileService.SDK.NETCore": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:4881;http://localhost:4884"
+    }
+  }
+}
